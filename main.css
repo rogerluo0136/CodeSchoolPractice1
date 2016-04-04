@@ -1,0 +1,48 @@
+/*
+*
+* Front-end News! Stylesheet
+
+* white 	: #fff;
+* Header Background : #;
+
+
+*/
+
+/*
+	Base
+*/
+
+header {
+
+}
+
+a {
+
+}
+
+h1,h2,h3,h4,h5 {
+
+}
+
+p {
+
+}
+
+/*
+	hero (header)
+*/
+
+.hero {
+	color: #ffffff;
+	background-color: #3f51b5;
+	padding:  20px 0;
+	text-align: center;
+}
+
+.logo{
+	font-size: 34px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
